@@ -1,0 +1,15 @@
+<form (ngSubmit)="emitSearch()">
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Description" aria-label="Description" [(ngModel)]="taskFilter.description" name="description"/>
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Priority" aria-label="Priority" [(ngModel)]="taskFilter.priority" name="priority" />
+    </div>
+    <div class="col">
+      <button type="submit" class="btn btn-primary">Search</button>
+
+      <button class="btn btn-secondary ms-2" (click)="emitReset()">Reset</button>
+    </div>
+  </div>
+</form>

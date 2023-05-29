@@ -1,0 +1,30 @@
+Clean the windows, June 3rd, Priority 2
+Organize the pantry, June 5th, Priority 3
+Vacuum the living room, June 1st, Priority 1
+Dust the bookshelves, June 2nd, Priority 2
+Mop the kitchen floor, June 4th, Priority 2
+Wash the bathroom tiles, June 6th, Priority 1
+Clean out the refrigerator, June 1st, Priority 3
+Sort and fold laundry, June 2nd, Priority 4
+Water the plants, June 3rd, Priority 1
+Scrub the bathtub, June 5th, Priority 2
+Sweep the front porch, June 1st, Priority 2
+Wipe down kitchen countertops, June 4th, Priority 3
+Clean the oven, June 6th, Priority 1
+Empty trash bins, June 1st, Priority 2
+Change bed sheets, June 2nd, Priority 4
+Clean out the garage, June 3rd, Priority 1
+Dust ceiling fans, June 5th, Priority 2
+Polish silverware, June 1st, Priority 3
+Organize the linen closet, June 4th, Priority 2
+Wipe down light switches, June 6th, Priority 1
+Clean the microwave, June 1st, Priority 2
+Sweep the backyard, June 2nd, Priority 3
+Wash the car, June 3rd, Priority 1
+Clean the blinds, June 5th, Priority 2
+Empty and clean trash cans, June 1st, Priority 3
+Vacuum under furniture, June 4th, Priority 2
+Dust lampshades, June 6th, Priority 1
+Clean the baseboards, June 1st, Priority 2
+Wash bathroom rugs, June 2nd, Priority 3
+Clean the patio furniture, June 3rd, Priority 1
